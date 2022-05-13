@@ -3,3 +3,5 @@ b
 remote b.txt first
 
 hhh
+
+b edit 
