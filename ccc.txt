@@ -2,13 +2,6 @@ ccccccccccccccccccccc
 edit cc 
 
 
-<<<<<<< HEAD
 
-edit cc again 2
-edit cc confict once
 
-gelost
-
-=======
-edit cc confict again
->>>>>>> 6ca3973a0a72857e792c19ec9f2540121f58ea91
+edit cc again 。。。
